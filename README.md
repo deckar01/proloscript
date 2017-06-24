@@ -1,0 +1,2 @@
+# proloscript
+Developer Friendly Prolog
